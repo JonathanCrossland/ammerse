@@ -26,3 +26,9 @@ The principles can act as categories, weights or a design record. They categoris
 **SolvingDesign** - A solving design not only solves a problem now, but can deal with a certain level of complexity and change, so that it can solve an extension of the problem at a future date. Solving doesn’t introduce new problems for which we solve which creates new problems. We must be careful to solve accurately and without creating new issues.
 
 **ExtensibleDesign** - Run-time extensibility of the system provides us with the ability to solve problems later, without recompiling or deploying large parts of the system. Extensible design allows an ecosystem to develop around the code, an extension of the original.
+
+---
+
+Jonathan Crossland
+https://www.patreon.com/jonathancrossland
+
