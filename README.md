@@ -13,16 +13,16 @@ Over the years, many principles have become popular, like SOLID, or GRASP, but t
 
 The principles can act as categories, weights or a design record. They categorise project artefacts and design principles, helping decision-making and improving your mental model of design and the relationships around it. You will learn how helpful these are soon enough, but let’s start with a basic introduction to each of the 7 principles.
 
-AgileDesign: This is highly malleable code. The very best sort of design-time code changes and enhancements. Agile code obeys cohesion and coupling best practices, but it’s main objective is to keep nimble code. The weight is “How agile should this code be?” and the category includes design patterns which enable agile code, such as the TemplateMethod or Strategy Pattern.
+**AgileDesign**: This is highly malleable code. The very best sort of design-time code changes and enhancements. Agile code obeys cohesion and coupling best practices, but it’s main objective is to keep nimble code. The weight is “How agile should this code be?” and the category includes design patterns which enable agile code, such as the TemplateMethod or Strategy Pattern.
 
-MinimalDesign: A minimal design is fit for purpose. We obey heuristics such as “less is more”. The main purpose is to create a small elegant necessary abstraction to solve the problem. Minimal is not the absence of design, rather it is the succinctness of the design.
+**MinimalDesign**: A minimal design is fit for purpose. We obey heuristics such as “less is more”. The main purpose is to create a small elegant necessary abstraction to solve the problem. Minimal is not the absence of design, rather it is the succinctness of the design.
 
-MaintainableDesign: Code that is easy to read and understand. Quick to debug, quick to change with certainty. Maintainable code has many facets and is not just neat code or nice partitioned, it’s everything from learning curve, prevention of brittleness and even how easy it is to debug.
+**MaintainableDesign**: Code that is easy to read and understand. Quick to debug, quick to change with certainty. Maintainable code has many facets and is not just neat code or nice partitioned, it’s everything from learning curve, prevention of brittleness and even how easy it is to debug.
 
-EnvironmentalDesign: Fits into the world, in architecture, language, aesthetically and technically. Environmental is a system that behaves correctly according to the rules of the platform, coding standards to rules.
+**EnvironmentalDesign**: Fits into the world, in architecture, language, aesthetically and technically. Environmental is a system that behaves correctly according to the rules of the platform, coding standards to rules.
 
-ReachableDesign: This is a design that fits within constraints such as a budget, timeline or features. We want a design that reaches the required constraints but also with time to spare or perhaps incremental releases.
+**ReachableDesign**: This is a design that fits within constraints such as a budget, timeline or features. We want a design that reaches the required constraints but also with time to spare or perhaps incremental releases.
 
-SolvingDesign - A solving design not only solves a problem now, but can deal with a certain level of complexity and change, so that it can solve an extension of the problem at a future date. Solving doesn’t introduce new problems for which we solve which creates new problems. We must be careful to solve accurately and without creating new issues.
+**SolvingDesign** - A solving design not only solves a problem now, but can deal with a certain level of complexity and change, so that it can solve an extension of the problem at a future date. Solving doesn’t introduce new problems for which we solve which creates new problems. We must be careful to solve accurately and without creating new issues.
 
-ExtensibleDesign - Run-time extensibility of the system provides us with the ability to solve problems later, without recompiling or deploying large parts of the system. Extensible design allows an ecosystem to develop around the code, an extension of the original.
+**ExtensibleDesign** - Run-time extensibility of the system provides us with the ability to solve problems later, without recompiling or deploying large parts of the system. Extensible design allows an ecosystem to develop around the code, an extension of the original.
