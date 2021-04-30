@@ -4,6 +4,7 @@
 
 By Jonathan Crossland
 
+(https://github.com/JonathanCrossland/ammerse/wiki)[WIKI]
 
 Design is all about tradeoffs. Whether your software is built on grander architecture or it is a simple application, your decisions shape and form the software. The qualities of the system are embedded by you into code. How you did this, truly matters, because code is important. The journey from learning how to code, to managing a team of people with a large budget is a long difficult learning process. Designing software for next week is hard enough, but how do you design for the future? How do you think ahead and plan effectively?
 
